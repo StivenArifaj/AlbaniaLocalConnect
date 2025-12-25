@@ -4,6 +4,9 @@
 
 Albania Local Connect is a comprehensive professional services platform that connects Albanian professionals, service providers, and clients. Whether you're building your career or looking for trusted local services, we've got you covered.
 
+## 🔗 Live Demo
+[**View Albania Local Connect Live**](https://stivenarifaj.github.io/AlbaniaLocalConnect/)
+
 ## 🌟 Features
 
 ### Career Hub
