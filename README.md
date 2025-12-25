@@ -120,9 +120,13 @@ albania-local-connect/
 - `/builder` - Resume builder interface
 - `/portfolio` - Portfolio creation tool
 - `/templates` - Resume template gallery
+- `/services` - Service marketplace
+- `/book/:id` - Service booking flow
+- `/pricing` - Platform pricing plans
+- `/contact` - Contact and support
 - `/dashboard` - User dashboard (bookings & documents)
 - `/login` - Authentication
-- `/services` - Service marketplace (coming soon)
+- `/admin` - Platform administration control center
 
 ## 🔧 Development
 
