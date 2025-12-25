@@ -20,7 +20,7 @@ const Portfolio = () => {
       title: "Tirana Smart City Portal",
       description: "A comprehensive digital services portal for the capital city",
       category: "Web Development",
-      image: "/placeholder.svg",
+      image: "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?auto=format&fit=crop&q=80&w=800",
       technologies: ["React", "Next.js", "PostgreSQL"],
       rating: 4.9
     },
@@ -29,7 +29,7 @@ const Portfolio = () => {
       title: "Albanian Tourism App",
       description: "Mobile application for discovering hidden gems in Albania",
       category: "Mobile Development",
-      image: "/placeholder.svg",
+      image: "https://images.unsplash.com/photo-1527631746610-bca00a040d60?auto=format&fit=crop&q=80&w=800",
       technologies: ["React Native", "Firebase"],
       rating: 4.8
     },
@@ -38,7 +38,7 @@ const Portfolio = () => {
       title: "Local Connect Branding",
       description: "Visual identity and UI design for a local services marketplace",
       category: "Design",
-      image: "/placeholder.svg",
+      image: "https://images.unsplash.com/photo-1561070791-26c11d6996ad?auto=format&fit=crop&q=80&w=800",
       technologies: ["Figma", "Adobe Suite"],
       rating: 4.7
     }

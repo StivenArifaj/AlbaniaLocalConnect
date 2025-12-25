@@ -16,7 +16,7 @@ const Templates = () => {
       category: "Professional",
       rating: 4.9,
       downloads: "12.5k",
-      image: "/placeholder.svg",
+      image: "https://images.unsplash.com/photo-1586281380349-632531db7ed4?auto=format&fit=crop&q=80&w=800",
       popular: true
     },
     {
@@ -26,7 +26,7 @@ const Templates = () => {
       category: "Creative",
       rating: 4.8,
       downloads: "8.2k",
-      image: "/placeholder.svg",
+      image: "https://images.unsplash.com/photo-1626197031507-c17099753214?auto=format&fit=crop&q=80&w=800",
       popular: false
     },
     {
@@ -36,7 +36,7 @@ const Templates = () => {
       category: "Executive",
       rating: 4.9,
       downloads: "6.1k",
-      image: "/placeholder.svg",
+      image: "https://images.unsplash.com/photo-1512486130939-2c4f79935e4f?auto=format&fit=crop&q=80&w=800",
       popular: true
     },
     {
@@ -46,7 +46,7 @@ const Templates = () => {
       category: "Minimalist",
       rating: 4.7,
       downloads: "15.3k",
-      image: "/placeholder.svg",
+      image: "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&q=80&w=800",
       popular: false
     },
     {
@@ -56,7 +56,7 @@ const Templates = () => {
       category: "Academic",
       rating: 4.6,
       downloads: "4.8k",
-      image: "/placeholder.svg",
+      image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&q=80&w=800",
       popular: false
     },
     {
@@ -66,7 +66,7 @@ const Templates = () => {
       category: "Sales",
       rating: 4.8,
       downloads: "9.7k",
-      image: "/placeholder.svg",
+      image: "https://images.unsplash.com/photo-1557804506-669a67965ba0?auto=format&fit=crop&q=80&w=800",
       popular: true
     }
   ];

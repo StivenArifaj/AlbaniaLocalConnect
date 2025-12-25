@@ -57,6 +57,18 @@ const Navbar = () => {
             >
               Services
             </button>
+            <button
+              onClick={() => navigate('/pricing')}
+              className="text-gray-700 hover:text-teal-600 transition-colors font-medium"
+            >
+              Pricing
+            </button>
+            <button
+              onClick={() => navigate('/contact')}
+              className="text-gray-700 hover:text-teal-600 transition-colors font-medium"
+            >
+              Contact
+            </button>
           </div>
 
           {/* Auth Buttons */}
@@ -122,6 +134,18 @@ const Navbar = () => {
                 className="text-gray-700 hover:text-teal-600 text-left font-medium"
               >
                 Services
+              </button>
+              <button
+                onClick={() => navigate('/pricing')}
+                className="text-gray-700 hover:text-teal-600 text-left font-medium"
+              >
+                Pricing
+              </button>
+              <button
+                onClick={() => navigate('/contact')}
+                className="text-gray-700 hover:text-teal-600 text-left font-medium"
+              >
+                Contact
               </button>
               <div className="flex flex-col space-y-2 pt-4 border-t">
                 <Button

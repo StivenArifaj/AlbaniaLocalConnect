@@ -35,7 +35,7 @@ const Services = () => {
       duration: "2-3 hours",
       location: "Tirana",
       category: "cleaning",
-      image: "/placeholder.svg",
+      image: "https://images.unsplash.com/photo-1581578731548-c64695cc6958?auto=format&fit=crop&q=80&w=800",
       description: "Professional deep cleaning service for your entire home"
     },
     {
@@ -48,7 +48,7 @@ const Services = () => {
       duration: "1-2 hours",
       location: "Durrës",
       category: "lawn-care",
-      image: "/placeholder.svg",
+      image: "https://images.unsplash.com/photo-1592419044706-39796d40f98c?auto=format&fit=crop&q=80&w=800",
       description: "Complete lawn care including mowing, edging, and cleanup"
     },
     {
@@ -61,7 +61,7 @@ const Services = () => {
       duration: "1-4 hours",
       location: "Vlorë",
       category: "handyman",
-      image: "/placeholder.svg",
+      image: "https://images.unsplash.com/photo-1621905251189-08b45d6a269e?auto=format&fit=crop&q=80&w=800",
       description: "Furniture assembly, minor repairs, and home maintenance"
     },
     {
@@ -74,7 +74,7 @@ const Services = () => {
       duration: "1-2 hours",
       location: "Tirana",
       category: "plumbing",
-      image: "/placeholder.svg",
+      image: "https://images.unsplash.com/photo-1505798577917-a65157d3320a?auto=format&fit=crop&q=80&w=800",
       description: "24/7 emergency plumbing repairs and installations"
     },
     {
@@ -87,7 +87,7 @@ const Services = () => {
       duration: "1-3 hours",
       location: "Shkodër",
       category: "electrical",
-      image: "/placeholder.svg",
+      image: "https://images.unsplash.com/photo-1621905252507-b352224ad33e?auto=format&fit=crop&q=80&w=800",
       description: "Safe and reliable electrical repairs and installations"
     },
     {
@@ -100,7 +100,7 @@ const Services = () => {
       duration: "2-4 hours",
       location: "Tirana",
       category: "cleaning",
-      image: "/placeholder.svg",
+      image: "https://images.unsplash.com/photo-1527515637462-cff94eecc1ac?auto=format&fit=crop&q=80&w=800",
       description: "Professional office and commercial space cleaning"
     }
   ];
